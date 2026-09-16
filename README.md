@@ -1,2 +1,2 @@
-# Eisenhower_Matrix_Gui_-Claud_Vibecode-
+# Eisenhower Matrix Gui - Claude Vibecode
 A repo for testing vibe coding using Claude.ai
